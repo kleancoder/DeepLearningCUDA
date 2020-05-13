@@ -1,0 +1,32 @@
+Introduction to Deep Learning with CUDA
+
+We can accelarate the process of deep learning and other 
+compute-intensive applications and systems by taking advantage of CUDA 
+along with the parallel processing power of GPUs. 
+
+CUDA (stands for Compute Unified Device Architecture) is a prallel 
+computing platform and programming model targeted to speed up compute-intensive
+applications by harnessing the power of GPUs. CUDA developed by Nvidia group, 
+for general computing on its own GPUs. 
+
+Although CUDA has smart competitors, the combination 
+of CUDA and Ndividia GPUs dominates several application areas, including 
+deep learning and machine learning, computational finance, data science and analytics. 
+
+We know, deep learning has an outsized need for computing speed. In 2016, 
+Google bought 2,000 server-grade GPUs from Nvidia to train the models of 
+Google Translate. The Google Brain and Google Translate teams ran thousands of 
+TensorFlow runs using GPUs. 
+
+Without GPUs, those training approaches may need several months while 
+using GUPs, they made it within a week. Along with for production deployment
+of those TensorFlow translation models, Google used a new custom processing that 
+is name Tensor Processing Unit (TPU). 
+
+Not only TensorFlow rather many DL frameworks rely on CUDA for 
+their GPU support, including Keras, PyTorch, Caff2, Databricks and more. 
+In most cases these frameworks uses the cuDNN library for the deep neural 
+network combinations. 
+
+
+
