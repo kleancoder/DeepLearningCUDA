@@ -9,9 +9,9 @@ computing platform and programming model targeted to speed up compute-intensive
 applications by harnessing the power of GPUs. CUDA developed by Nvidia group, 
 for general computing on its own GPUs. 
 
-Although CUDA has smart competitors, the combination 
-of CUDA and Ndividia GPUs dominates several application areas, including 
-deep learning and machine learning, computational finance, data science and analytics. 
+Although CUDA has smart competitors, the combination of CUDA and Ndividia GPUs 
+dominates several application areas, including deep learning and machine learning, 
+computational finance, data science and analytics. 
 
 We know, deep learning has an outsized need for computing speed. In 2016, 
 Google bought 2,000 server-grade GPUs from Nvidia to train the models of 
